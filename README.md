@@ -1,4 +1,5 @@
-Hi, I’m @kytkaprogramuje
-I’m interested in Anime and Linux
-I’m currently learning how to program stuff
-Reach me via discord  nickname: Jakub R.#6662
+# Hi, I’m @kytkaprogramuje
+## I’m interested in Anime and Linux and i am currently learning how to program stuff uwu.
+~ Plast je normální
+
+Reach me via discord  nickname: Kuba #6662
